@@ -4,7 +4,7 @@ Desarrollo de una aplicación móvil nativa Android, que permita realizar petici
 Para el desarrollo de esta aplicación se utilizó Volley para relaizar las peticiones Http
 
 Se utilizó la Api Rest Publica publicada en PlaceHolder que contiene una lista con 100 posts, la cual le pertenecen a 10 usuarios diferentes, siendo cada uno propietario de 10 posts
-![](https://jsonplaceholder.typicode.com/posts)
+![https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
 
 
 CAPTURAS DE FUNCIONAMIENTO DE LA APLICACIÓN:
